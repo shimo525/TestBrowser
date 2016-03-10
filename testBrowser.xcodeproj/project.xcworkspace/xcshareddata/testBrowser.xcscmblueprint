@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C65B56140CF2EEAD9A9339E4159AB883A9FA36D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "81A1ACF8E762611F6E4F0697E3772AA7865E19BE" : 0,
+    "C65B56140CF2EEAD9A9339E4159AB883A9FA36D7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "72B76110-C892-4A65-A866-8122D7516E2D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "81A1ACF8E762611F6E4F0697E3772AA7865E19BE" : "..",
+    "C65B56140CF2EEAD9A9339E4159AB883A9FA36D7" : "testBrowser\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "testBrowser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "testBrowser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shimo525\/Quiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81A1ACF8E762611F6E4F0697E3772AA7865E19BE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shimo525\/TestBrowser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C65B56140CF2EEAD9A9339E4159AB883A9FA36D7"
+    }
+  ]
+}
